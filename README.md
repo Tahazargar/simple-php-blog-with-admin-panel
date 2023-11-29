@@ -1,0 +1,1 @@
+This blog is developed by TahaZargar with pure PHP.
